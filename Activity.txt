@@ -1,0 +1,2 @@
+Create a program to encrypt the files to keep them safe from other users
+Run the program which should Encrypt or decrypt the file depending on the the user choice
